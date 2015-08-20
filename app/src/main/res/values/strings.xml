@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Patlıcanlı Yemekler</string>
+    <string name="action_settings">Settings</string>
+    <string name="back_button">Geri</string>
+    <string name="next_button">İleri</string>
+    <string name="karniyarik">Karnıyarık</string>
+    <string name="ingredients">Malzemeler</string>
+    <string name="ingredient_karniyarik">&#8226; 6 adet küçük boy patlıcan
+        \n&#8226; 2 adet orta boy soğan
+        \n&#8226; 1 adet domates
+        \n&#8226; 8 adet yeşil biber
+        \n&#8226; 4 diş sarmısak
+        \n&#8226; 1 yemek kaşığı salça
+        \n&#8226; sıvıyağ, tuz, karabiber, kırmızıbiber
+        \n&#8226; 200 gr çekilmiş et</string>
+    <string name="preparation">Hazırlanışı</string>
+    <string name="preparation_karniyarik">Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.
+        İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 6 adet biberide yağda kızartın. Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek birmüddet daha kavurun ve biberleri, küp küp doğramış olduğunuz 1 adet domatesi, tuzu, baharatları ekleyerek karıştırın. Üzerine bir çay bardağı su ekeleyerek 5 dk kaynatın. Tepsiye patlıcanlarım ortalarını keserek yerleştirin ve bu kesiklerden patlıcanın içine bastırarak iç ingredientsine yer açın ve ingredient ile patlıcanları doldurun. Doldurduğunuz patlıcanların üzerine kalan 1 adet domatesi eşit büyüklükte olacak şekilde paylaştırın, birer tane sarmısak ve kızarttığımız biberlerden birer tane koyun.
+        \n\nAyrı bir yerde 1 kaşık salçayı 1 kase sıcak suda ezerek patlıcanların aralarına dökün. Kıymalar çıkmasın diye üzerine dökmeyin. Daha sonra 170 derece de ısıttığınız fırına sürerek 20-25 dk pişirin. Dilerseniz bu işlemi pilav tenceresi gibi bir tencerede ocakta yapabilirsiniz. Aynı sürede tencerede de  pişecektir. Afiyet olsun..</string>
+    <string name="imambayildi">İmam Bayıldı</string>
+    <string name="ingredient_imambayildi">&#8226; 5 adet patlıcan
+        \n&#8226; 2 büyük boy soğan
+        \n&#8226; 3 adet yeşil biber
+        \n&#8226; 3 adet domates
+        \n&#8226; 6-7 diş sarımsak
+        \n&#8226; Yarım demet maydanoz
+        \n&#8226; Sıvı yağ
+        \n&#8226; Pul biber
+        \n&#8226; Karabiber </string>
+    <string name="preparation_imambayildi">Patlıcanları alacalı soyarak yarım saat kadar tuzlu suda bekletin. Ardından tuzunu akıtıp, havlu kağıt ile kurulayıp çevirerek her yönünü sıvı yağda kızartın. Yağın fazlasını alması için havlu kağıda alın.
+        \n\nİç harcı için soğanları piyazlık doğrayın, 2-3 yemek kaşığı sıvı yağ ile ocağa alın ve kavurmaya başlayın. 5 dk kadar soğanlar kavrulduktan sonra küçük doğranmış biberleri ve sarımsakları ilave edin, bir süre daha kavurun. Küçük doğranmış domates ve baharatları da ekleyerek domatesler suyunu biraz çekene kadar kavurmaya devam edin. İnce kıyılmış maydanozu ekleyerek ocaktan alın.
+        \n\nFırın kabına aldığınız patlıcanların üzerine boydan çizgi şeklinde kesin. İçlerine hazırladığınız iç harcından doldurun. Tavada kalan domatesli suyu fırın kabına dökün. Eğer su yeterli değilse domates sosu ile ya da çok az salça ile sos hazırlayın ve 190 derece ısıtılmış fırında pişirin.</string>
+    <string name="patlicanoturtma">Patlıcan Oturtma</string>
+    <string name="ingredient_patlicanoturtma">&#8226; 1 kilo patlıcan
+        \n&#8226; 200 250 gr kıyma
+        \n&#8226; 1 adet domates rendesi
+        \n&#8226; 1adet kuru soğan
+        \n&#8226; Biber ve domates salçası
+        \n&#8226; 1 adet sivri biber
+        \n&#8226; Tuz
+        \nÜzeri için:
+        \n&#8226; Domates ve biber</string>
+    <string name="preparation_patlicanoturtma">Patlıcanları alacalı soyup acısının gitmesi için tuzlu suda bekletiyoruz. Sonra dilimleyip sıvı yağda kızartıyoruz. Bir tavaya sıvı yağ ve margarin koyup soğanı pembeleşene kadar kavuruyoruz. İçine kıymayı, biberi ekleyip tekrar kavurun. Domatesini, tuzunu, domates ve biber salçasını koyup kavuruyoruz. Patlıcanları tencereye dizip üzerine kıymalı harçtan koyuyoruz. Tekrar patlıcan tekrar kıyma koyup en üstünü domates dilimleri ve biberle süsleyin. 1 bardak kadar su koyup kısık ateşte pişiriyoruz. Afiyet olsun…</string>
+    <string name="kurdankebabi">Kürdan Kebabı</string>
+    <string name="ingredient_kurdankebabi">&#8226; 4 adet uzun boylu patlıcan
+        \n&#8226; 400 gr kıyma
+        \n&#8226; 1 adet soğan
+        \n&#8226; 3-4 dilim ekmek içi
+        \n&#8226; 2 diş sarımsak
+        \n&#8226; 1 adet yumurta
+        \n&#8226; sıvı yağ(patlıcanları kızatmak için)
+        \n&#8226; 2 adet dolmabiber
+        \n&#8226; 2 adet domates
+        \n&#8226; tuz, karabiber, pulbiber, kimyon
+        \n&#8226; 1 tutam maydanoz
+        \n&#8226; 1 yemek kaşığı salça
+        \n&#8226; 1,5-2 su bardağı sıcak su
+        \n&#8226; Kürdan</string>
+    <string name="preparation_kurdankebabi">Patlıcanlar çizgili soyularak şerit şeklinde uzun uzun kesilir ve tuzlu suda 15-20 dk bekletilir. Daha sonra tuzu yıkanarak kurulanır ve yağda kızartılır.Köftesi için soğanı, sarımsağı rendeleyin. Maydanozu ince ince kesin, kıyma, ufalanmış ekmek, yumurta
+ve baharatları ekleyerek köfteyi yoğurun. Patlıcandan kalan sıvı yağ ile önce 4-5 parçaya uzunlamasına kestiğiniz dolma biberleri kızartın daha sonra köfteleri kızartın. 2 adet patlıcan alarak artı şeklinde koyun ve ortasına 2 adet köfte koyun. Köfteler iri ise bir adette olabilir. Patlıcanın uçlarını köftenin üzerine koyarak bohça gibi yapın. Üzerine biber ve dilimlenmiş domatesten koyarak kürdan ile açılmayacak şekilde tutturun.Tüm patlıcanları aynı şekilde yaparak fırın tepsisine dizin. Ayrı bir kapta salçayı sıcak suda ezin ve patlıcanların üzerine dökün. 185 derece fırında domateslerin üzeri kızarana kadar bekletin. Afiyet olsun.</string>
+    <string name="guvec">Güveç</string>
+    <string name="ingredient_guvec">&#8226; 3 adet patlıcan
+        \n&#8226; 1 adet soğan
+        \n&#8226; 3 adet sivri biber
+        \n&#8226; 3 adet domates
+        \n&#8226; 1 yemek kaşığı dolusu salça
+        \n&#8226; 7-8 adet sarımsak
+        \n&#8226; Tuz ve çok az yağ isteyen kıymada ekleyebilir ben bu sefer kıymasız yaptım
+    </string>
+    <string name="preparation_guvec">Soğanı ve biberi güvece alıp,çok az yağ ile kavurun çünkü patlıcanları kızartıp ekleyeceğiz .Kıyma koyanlar soğanlar biraz kavrulunca kıymasını eklesinler.Kavrulan soğana küp küp kesilmiş domatesleri ilave edin ve salçasını koyun.Domatesler pişene kadar kaynatın.Yazın sadece domatesle de yapabilirsiniz.Başka bir yerde küp küp kesilen patlıcanları kızartıp domateslerin üstüne dökün ama karıştırmayın dağılmasın.Sarımsakları isteyen bütün isteyen ikiye kesip atsın kokusu ve tadı çok güzel oluyor.Benim gibi güveç kokusunu sevenler 3 su bardağı su ilave edip 10 dakika pişirsin.Tencere de yapanlar ise yemek suyu özleşene kadar kaynatsın o da 15-20 dakikayı bulur.Servise hazır…</string>
+</resources>

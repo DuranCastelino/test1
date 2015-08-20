@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="48dp">
+
+            <ImageView
+                android:id="@+id/image_field"
+                android:layout_width="match_parent"
+                android:layout_height="240dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/karniyarik" />
+
+            <TextView
+                android:id="@+id/name_field"
+                style="@style/header"
+                android:text="@string/karniyarik" />
+
+            <TextView
+                style="@style/sub_header"
+                android:text="@string/ingredients" />
+
+            <TextView
+                android:id="@+id/ingridient_field"
+                style="@style/text"
+                android:text="@string/ingredient_karniyarik"/>
+
+            <TextView
+                style="@style/sub_header"
+                android:text="@string/preparation" />
+
+            <TextView
+                android:id="@+id/preparation_field"
+                style="@style/text"
+                android:text="@string/preparation_karniyarik" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:onClick="backRecipe"
+            android:text="@string/back_button" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:onClick="nextRecipe"
+            android:text="@string/next_button" />
+    </LinearLayout>
+
+</RelativeLayout>
