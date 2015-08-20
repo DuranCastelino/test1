@@ -1,5 +1,5 @@
 # patlicanliyemekler
-An android app that has 5 turkish traditional recipes with eggplant
+An android app that has 5 turkish traditional recipes with eggplant.
 It shows ingredients and preparations.
 I've taken the recipes from www.nefisyemektarifleri.com
 
